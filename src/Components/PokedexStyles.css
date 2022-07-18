@@ -1,0 +1,22 @@
+
+.p-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.poke-header {
+    color: rgb(194, 108, 32);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(76, 5, 142);
+}
+
+.pokewon {
+    color: green;
+}
+.pokelost {
+    color: red;
+}
