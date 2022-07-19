@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//akinbo4eva.github.io/poke_app/static/css/main.e12f7060.css",
+    "main.js": "/https//akinbo4eva.github.io/poke_app/static/js/main.30ce1572.js",
+    "index.html": "/https//akinbo4eva.github.io/poke_app/index.html",
+    "main.e12f7060.css.map": "/https//akinbo4eva.github.io/poke_app/static/css/main.e12f7060.css.map",
+    "main.30ce1572.js.map": "/https//akinbo4eva.github.io/poke_app/static/js/main.30ce1572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12f7060.css",
+    "static/js/main.30ce1572.js"
+  ]
+}
